@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
