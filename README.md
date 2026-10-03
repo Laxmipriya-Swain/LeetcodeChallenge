@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
