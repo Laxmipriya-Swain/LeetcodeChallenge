@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [3870-count-commas-in-range](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0836-rectangle-overlap) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
