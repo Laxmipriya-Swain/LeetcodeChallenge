@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0283-move-zeroes) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0268-missing-number) |
@@ -126,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
