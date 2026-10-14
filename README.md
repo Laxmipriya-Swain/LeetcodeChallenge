@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3903-smallest-stable-index-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
