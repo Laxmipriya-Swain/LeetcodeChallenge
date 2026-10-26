@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Laxmipriya-Swain/LeetcodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
